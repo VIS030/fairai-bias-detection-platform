@@ -5,7 +5,7 @@
 <h1 align="center">🛡️ FairAI — Bias Detection & Correction Platform</h1>
 
 <p align="center">
-  <strong>An intelligent SaaS platform that detects, visualizes, and mitigates bias in Machine Learning datasets using Fairlearn and Explainable AI.</strong>
+  <strong>An intelligent SaaS platform that detects, visualizes, and mitigates bias in Machine Learning datasets using Fairlearn and Explainable AI.</strong>.
 </p>
 
 <p align="center">
