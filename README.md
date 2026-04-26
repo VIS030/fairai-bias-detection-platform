@@ -1,4 +1,4 @@
-m<p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Google-Solution_Challenge_2025-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Solution Challenge" />
 </p>
 
